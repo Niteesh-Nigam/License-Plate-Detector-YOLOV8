@@ -2,6 +2,8 @@
 # Project Overview
 This project develops a robust license plate recognition system utilizing the YOLOv8 deep learning model. This repository contains training scripts, detailed configuration files, and extensive documentation about the dataset sourced and processed through Roboflow.
 
+To access any of my trained models contact me at niteesh.nigam99@gmail.com
+
 # Repository Contents
 YOLO_Resume.py: Script to resume training the YOLO model from the last saved checkpoint.
 LP_Train.py: Script for initial training of the YOLO model on license plate images.
