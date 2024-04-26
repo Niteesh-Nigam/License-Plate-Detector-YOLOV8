@@ -1,4 +1,4 @@
-# License Plate Recognition System Using YOLOv8
+# License Plate Recognition Model Training Using YOLOv8
 # Project Overview
 This project develops a robust license plate recognition system utilizing the YOLOv8 deep learning model. This repository contains training scripts, detailed configuration files, and extensive documentation about the dataset sourced and processed through Roboflow.
 
